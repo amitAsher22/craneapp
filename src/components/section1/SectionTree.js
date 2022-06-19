@@ -46,6 +46,7 @@ function SectionTree() {
         <img
           className="img-section-tree"
           src="https://manofayim.co.il/wp-content/uploads/2021/03/man.png"
+          alt="img53"
         />
       </div>
     </div>
