@@ -13,9 +13,7 @@ function SectionTwo() {
               <button className="service">השירותים שלנו</button>
             </div>
           </div>
-          <div>
-            <h1></h1>
-          </div>
+          <div></div>
         </div>
       </div>
     </div>
