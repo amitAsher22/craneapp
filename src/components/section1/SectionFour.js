@@ -19,6 +19,7 @@ function SectionFour() {
             <img
               className="img-section-four"
               src="https://manofayim.co.il/wp-content/uploads/2021/03/services-12.png"
+              alt="img2"
             />
             <p className="main-text-title">גיוס</p>
             <p className="main-text-section-four">
@@ -33,6 +34,7 @@ function SectionFour() {
             <img
               className="img-section-four"
               src="https://manofayim.co.il/wp-content/uploads/2021/03/services-11.png"
+              alt="img3"
             />
             <p className="main-text-title">הכשרה</p>
             <p className="main-text-section-four">
@@ -47,6 +49,7 @@ function SectionFour() {
             <img
               className="img-section-four"
               src="https://manofayim.co.il/wp-content/uploads/2021/03/services-10.png"
+              alt="img7"
             />
             <p className="main-text-title">הפעלה</p>
             <p className="main-text-section-four">
