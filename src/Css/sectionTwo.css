@@ -54,3 +54,14 @@
   gap: 20px;
 
 }
+
+@media (orientation :portrait) {
+  .div-buttons-two {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+
+
+  }
+}

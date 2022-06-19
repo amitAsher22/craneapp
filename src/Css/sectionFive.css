@@ -54,6 +54,23 @@
 }
 
 .name-developer {
-  font-size: 1.2rem;
+  font-size: 1rem;
   padding: 0.3rem;
+}
+
+@media (orientation :portrait) {
+
+  .div-main-five {
+    width: 90%;
+  }
+
+  .div-input-five {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .input-text {
+    width: 100%;
+  }
 }

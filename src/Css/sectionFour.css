@@ -84,3 +84,10 @@
 .main-text-section-four {
   text-align: center;
 }
+
+@media (orientation :portrait) {
+  .all-card-four {
+    display: flex;
+    flex-direction: column;
+  }
+}
