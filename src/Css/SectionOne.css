@@ -1,0 +1,20 @@
+.mainDivOne {
+  background-color: #E8C023;
+  display: flex;
+  justify-content: center;
+
+  gap: 20px;
+}
+
+.titleNav {
+  color: #FFFFFF;
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 0.7rem;
+
+}
+
+.titleNav:hover {
+  background-color: black;
+  cursor: pointer;
+}
