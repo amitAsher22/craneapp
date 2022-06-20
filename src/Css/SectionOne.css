@@ -18,3 +18,30 @@
   background-color: black;
   cursor: pointer;
 }
+
+.close {
+  display: none;
+}
+
+.open {
+  display: none;
+}
+
+.bgClose {
+  background-color: inherit;
+}
+
+@media (orientation :portrait) {
+  .mainDivOne {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .close {
+    display: block;
+  }
+
+  .open {
+    display: block;
+  }
+}
